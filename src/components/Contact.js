@@ -13,10 +13,6 @@ function Contact() {
                 <input type="text" placeholder="Enter your message"/>
                 <input type="button" value="Send"/>
             </form>
-            <ul>
-                <li><a href="https://www.facebook.com/profile.php?id=100010851407178"><BsFacebook /></a></li>
-                <li><a href="https://www.linkedin.com/in/bence-kolozsi-t%C3%B3th-4940b2138/"><BsLinkedin /></a></li>
-            </ul>
         </div>
     );
 }
